@@ -1,21 +1,11 @@
 --- 
-education: 
-  faculty: FITC
-  uni: BSUIR
-  year: 2
-hard_skills: 
-  english: B1
-  programming_languages: 
-    C++: "so so"
-    CSS_HTML: "can do smth"
-    JS: poor
-    Java: ok
-personal_information: 
-  age: 19
-  e-mail: gannagoodkevich@gmail.com
-  mobile_number: 80291122900
-  name: "Ann Gudkevich"
-soft_skills: 
-  - "positive thinking"
-  - "time managment"
-  - creativity
+goal: 'Привет) Хочу стать трушным рубистом, проверить себя на прочностьв условиях лагеря' 
+programming_languages: 'Java, CSS+HTML, C++'
+have_a_job: 'Nope'
+laptop: 'Да (Windows)'
+english: 'B1'
+phone_number: '+375291122900'
+hours_per_day: '7'
+age: '19'
+full_name: "Гудкевич Анна"
+education: "БГУИР, 2 курс"
